@@ -15,5 +15,5 @@ The steps taken include cleaning the data, building pivot tables to provide answ
 # PIVOT TABLES
 ![image](https://github.com/user-attachments/assets/69eebff0-473a-42d7-9f7f-ac101cfd78ee)
 
-# CLEAN DATA
+# CLEANED DATA
 ![image](https://github.com/user-attachments/assets/4cf87903-95a4-4ba9-bb66-e8ec551af619)
