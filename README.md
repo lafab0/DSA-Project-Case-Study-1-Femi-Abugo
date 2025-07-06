@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/1b0c190a-6b63-400a-967a-9678dda7a581)
+
 # DSA-Project-Femi-Abugo
 DSA Data Analysis Project of Two Case Studies. I present here Case Study 1 on Amazon Product Review Analysis. As a Junior Data Analyst engaged by the company, the task is about analysing product and customer review data to generate insights that can guide product improvement, marketing strategies, and customer engagement.
 
